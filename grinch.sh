@@ -11,4 +11,3 @@ if [[ -e '/Library/Desktop Pictures/Mojave.heic' ]]
 then rm '/Library/Desktop Pictures/Mojave.heic'
 else echo "No mojave background installed"
 fi
-#/Library/Desktop Pictures/Mojave.heic
